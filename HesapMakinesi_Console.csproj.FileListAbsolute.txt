@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\bin\Debug\netcoreapp3.1\HesapMakinesi_Console.exe
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\bin\Debug\netcoreapp3.1\HesapMakinesi_Console.deps.json
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\bin\Debug\netcoreapp3.1\HesapMakinesi_Console.runtimeconfig.json
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\bin\Debug\netcoreapp3.1\HesapMakinesi_Console.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\bin\Debug\netcoreapp3.1\HesapMakinesi_Console.dll
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\bin\Debug\netcoreapp3.1\HesapMakinesi_Console.pdb
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.dll
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.pdb
+C:\Users\Administrator\source\repos\HesapMakinesi_Console\HesapMakinesi_Console\obj\Debug\netcoreapp3.1\HesapMakinesi_Console.genruntimeconfig.cache
